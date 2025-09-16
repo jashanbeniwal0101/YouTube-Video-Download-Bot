@@ -4,12 +4,12 @@ class Translation(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├📛 **My Name** : [YouTube Video Uploader Bot](https://t.me/YouTubeUploaderOneBot)
+├📛 **My Name** : [YouTube Video Uploader Bot](http://t.me/YouTubeVideoDownloadYT_bot)
 ├📢 **Framework** : [PyroFork 2.3.50](https://docs.pyrogram.org/)
 ├💮 **Language** : [Python 3.12.6](https://www.python.org)
-├👥 **Support Group** : [NT BOTS SUPPORT](https://t.me/NT_BOTS_SUPPORT)
-├🥏 **Channel** : [NT BOT CHANNEL](https://t.me/NT_BOT_CHANNEL)
+├👥 **Support Group** : [NT BOTS SUPPORT](https://t.me/botsupport_group)
+├🥏 **Channel** : [NT BOT CHANNEL](https://t.me/allbotsupdates1)
 ├⛲ **Source** : [Click Here](https://github.com/LISA-KOREA/YouTube-Video-Download-Bot)
-├🎓 **Developer** : [LISA 👑](https://t.me/LISA_FAN_LK)
+├🎓 **Developer** : [Team JB👑](https://t.me/arsh_beniwal)
 ╰───────────────⍟
 """
