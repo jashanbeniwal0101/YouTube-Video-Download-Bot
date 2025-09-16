@@ -9,7 +9,7 @@ class Translation(object):
 ├💮 **Language** : [Python 3.12.6](https://www.python.org)
 ├👥 **Support Group** : [NT BOTS SUPPORT](https://t.me/botsupport_group)
 ├🥏 **Channel** : [NT BOT CHANNEL](https://t.me/allbotsupdates1)
-├⛲ **Source** : [Click Here](https://github.com/LISA-KOREA/YouTube-Video-Download-Bot)
+├⛲ **Source** : [Click Here](https://github.com/LIA-KOREA/YouTube-Video-Download-Bot)
 ├🎓 **Developer** : [Team JB👑](https://t.me/arsh_beniwal)
 ╰───────────────⍟
 """
